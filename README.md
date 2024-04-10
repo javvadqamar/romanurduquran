@@ -1,4 +1,4 @@
-# Quran Translation App
+# [Roman Urdu Quran](romanurduquran.netlify.app)
 
 This application provides access to translations of the Quran in Roman Urdu. Users can explore different chapters, view random verses, and search by keyword.
 
@@ -21,7 +21,7 @@ This application provides access to translations of the Quran in Roman Urdu. Use
 
 ## Credits
 - Translation: Abul Aala Maududi
-- Developed by [Your Name]
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
