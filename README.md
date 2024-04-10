@@ -1,6 +1,6 @@
-# [Roman Urdu Quran](romanurduquran.netlify.app)
+# Roman Urdu Quran
 
-This application provides access to translations of the Quran in Roman Urdu. Users can explore different chapters, view random verses, and search by keyword.
+[Roman Urdu Quran](https://www.romanurduquran.netlify.app) provides access to translations of the Quran in Roman Urdu. Users can explore different chapters, view random verses, and search by keyword.
 
 ## Features
 - **Dynamic Routing:** Utilizes React Router for seamless navigation between different sections of the application.
